@@ -3,7 +3,6 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket</b>
-(https://github.com/MarcusElliston/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/MarcusElliston/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MarcusElliston/configure-ad)
