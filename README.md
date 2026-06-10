@@ -16,4 +16,4 @@
 
 [twitter]: https://twitter.com/Marc
 [instagram]: https://www.instagram.com/Marc
-[linkedin]: https://linkedin.com/in/Marc
+[linkedin]: https://www.linkedin.com/in/marc-elliston-137329102/
